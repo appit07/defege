@@ -1,4 +1,4 @@
-\# bot.py - SYNCHRONE versie voor Railway
+# bot.py - SYNCHRONE versie voor Railway
 import requests
 import json
 import re
